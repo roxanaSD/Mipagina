@@ -1,0 +1,90 @@
+body{
+  width: 60em;
+  margin: 0 auto;
+  background: linear-gradient(917deg, rgba(255,230,10,.8), rgba(255,0,80,0)10.71%),
+             linear-gradient(250deg, rgba(30,255,433,.8), rgba(10,350,0,1)100.78%),
+            linear-gradient(200deg, rgba(40,10,255,.8), rgba(100,0,255,0)40.81%);
+}
+
+
+#gener{
+  text-align: justify;
+}
+
+#ajolot{
+  text-shadow: 8px 5px 5px #f05,
+               6px 6px 5px #0f0;
+}
+#ajo{
+  filter: saturate(180%);
+  border-radius: 40px;
+}
+
+#guacam{
+  text-shadow: -5px -5px 5px #560;
+}
+#gua:hover{
+  -webkit-transform:scale(1.3);transform:scale(1.3);
+}
+#gua {
+  overflow:hidden;
+}
+
+#lob{
+  text-shadow: 8px 6px 7px #f05,
+               2px 6px 5px #9f0;
+}
+#lobo{
+  filter:sepia(40%);
+}
+
+#ocel{
+  text-shadow: -5px -5px 5px #280;
+}
+.ocelt:hover{
+  -webkit-transform:translate(7em);
+}
+
+#jag{
+   text-shadow: 5px 5px 5px #cac;
+}
+#jau:hover{
+  filter: grayscale(50%);
+}
+
+#caguama{
+   text-shadow: -5px -5px 5px #728;
+}
+#turtle:hover{
+  filter: grayscale(80%);
+}
+
+#manat{
+  text-shadow: 8px 6px 7px #c05,
+               2px 6px 5px #9f1;
+}
+#mani:hover{
+  filter: grayscale(70%);
+}
+
+#perr{
+  text-shadow: -8px -6px 7px #f05;
+}
+#piro:hover{
+  filter: contrast(49%);
+}
+
+#tapi{
+  text-shadow: -8px -6px 7px #a05;
+}
+#tipa:hover{
+  filter:contrast(45%);
+}
+
+#vaqui{
+  text-shadow: 8px 6px 7px #f05,
+               2px 6px 5px #9a0;
+}
+#vequi:hover{
+  filter: contrast(35);
+}
